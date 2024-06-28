@@ -1,4 +1,4 @@
-# CS50X
+# [CS50X](https://cs50.harvard.edu/x/2024/)
 
 记录CS50X学习过程
 
